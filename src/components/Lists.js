@@ -7,7 +7,6 @@ function Lists({ todoList }) {
         return (
             <div className="jumbotron text-center">
                 <h1 className="text-danger">No Todo Found</h1>
-                <h4></h4>
             </div>
         );
     }
